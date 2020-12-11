@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Circle and Sphere Monte Carlo Simulation
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This program was built to analyze the accuracy of monte carlo simulations in estimating the volume of multidimensional figures.
